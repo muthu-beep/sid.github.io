@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Siddharth Ramnarayanan"
-  avatar : "/bio-photo.jpg"
+  avatar : "/photo/bio-photo.jpg"
   bio    : "This is my profile, It shows how awesome i am!"
 defaults:
   # _posts
